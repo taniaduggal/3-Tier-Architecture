@@ -22,9 +22,7 @@ click on “Create an AWS Account” button in the top right corner to create on
 
 
 ## 3-Tier Architecture
-![Screenshot 2023-07-07 123032](https://github.com/taniaduggal/3-tier-Architecture/assets/103496926/fb86b239-6074-4917-8d6e-c965ea4c5543)
-
-
+![tier3](https://github.com/taniaduggal/3-Tier-Architecture/assets/103496926/7313f03c-38ef-48a9-84f4-39bd32d389b4)
 
 
 Steps:
